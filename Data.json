@@ -13,5 +13,40 @@
     "id": 3,
     "title": "Saturday",
     "description": "Its a uni day"
+  },
+  {
+    "id": 4,
+    "title": "Swift Programming",
+    "description": "Learn iOS development with SwiftUI and UIKit"
+  },
+  {
+    "id": 5,
+    "title": "Weather Update",
+    "description": "Sunny with a chance of rain, temperature 25°C"
+  },
+  {
+    "id": 6,
+    "title": "Coffee Break",
+    "description": "Time for a quick espresso shot"
+  },
+  {
+    "id": 7,
+    "title": "Meeting Reminder",
+    "description": "Team standup at 10:00 AM in conference room B"
+  },
+  {
+    "id": 8,
+    "title": "Workout Plan",
+    "description": "30 minutes cardio, 20 minutes strength training"
+  },
+  {
+    "id": 9,
+    "title": "Shopping List",
+    "description": "Milk, eggs, bread, fruits, vegetables"
+  },
+  {
+    "id": 10,
+    "title": "Movie Night",
+    "description": "Watching Inception at 8 PM with friends"
   }
 ]
